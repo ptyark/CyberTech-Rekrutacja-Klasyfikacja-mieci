@@ -1,0 +1,42 @@
+# =========================
+# Środowiska wirtualne
+# =========================
+venv/
+.venv/
+env/
+.env/
+
+# =========================
+# Skompilowane pliki Pythona
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Zmienne środowiskowe / Sekrety
+# =========================
+.env
+
+# =========================
+# Ustawienia IDE i edytorów
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Pliki systemowe
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Pliki dystrybucyjne / logi
+# =========================
+build/
+dist/
+*.egg-info/
+*.log
+
