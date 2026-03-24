@@ -5,7 +5,7 @@ Aby stworzyć środowisko i uruchomić wpisz w konsoli:
 git clone https://github.com/ptyark/CyberTech-Rekrutacja-Klasyfikacja-mieci.git
 
 ### 2. Stworzenie środowiska
-python -m venv venv
+python3 -m venv venv
 
 source venv/bin/activate
 
