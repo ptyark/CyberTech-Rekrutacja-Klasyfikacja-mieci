@@ -40,9 +40,6 @@ dist/
 *.egg-info/
 *.log
 
-# Dataset
-Waste-Classification-1/
-
 #Wykresy
 *.png
 
